@@ -1,4 +1,4 @@
-# 🎫 Sistema de Chamados Help Desk
+# Sistema de Chamados Help Desk
 
 Sistema de gerenciamento de chamados de suporte técnico desenvolvido em **Python**, com armazenamento local em JSON e interface interativa via terminal.
 
@@ -6,7 +6,7 @@ O projeto tem como objetivo simular o funcionamento de um sistema de Help Desk, 
 
 ---
 
-## 📌 Sobre o projeto
+##  Sobre o projeto
 
 O Sistema de Chamados Help Desk é um projeto desenvolvido para praticar conceitos fundamentais de programação e desenvolvimento de sistemas, incluindo:
 
@@ -19,7 +19,7 @@ O Sistema de Chamados Help Desk é um projeto desenvolvido para praticar conceit
 
 A aplicação permite que um usuário registre problemas técnicos e consulte os chamados armazenados.
 
-## ⚙️ Funcionalidades
+##  Funcionalidades
 
 ### Implementadas
 
@@ -48,7 +48,7 @@ A aplicação permite que um usuário registre problemas técnicos e consulte os
 - [ ] Banco de dados SQLite ou PostgreSQL.
 - [ ] Relatórios e indicadores de atendimento.
 
-## 🛠️ Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 | Tecnologia | Aplicação |
 |---|---|
@@ -59,7 +59,7 @@ A aplicação permite que um usuário registre problemas técnicos e consulte os
 
 **Dependências externas:** atualmente, o projeto utiliza recursos da biblioteca padrão do Python, sem necessidade de instalar pacotes adicionais.
 
-## 📁 Estrutura do projeto
+##  Estrutura do projeto
 
 ```text
 Sistema-de-Chamados-Help-Desk/
@@ -86,7 +86,7 @@ Sistema-de-Chamados-Help-Desk/
 - **.gitignore:** define os arquivos que não devem ser enviados ao Git.
 - **LICENSE:** licença de utilização do projeto.
 
-## 💻 Instalação e execução
+## Instalação e execução
 
 ### 1. Pré-requisitos
 
@@ -126,7 +126,7 @@ python3 src/main.py
 
 Não é necessário instalar dependências adicionais no estágio atual do projeto.
 
-## 🖥️ Demonstração
+##  Demonstração
 
 Ao executar a aplicação, o usuário encontrará um menu interativo semelhante a este:
 
@@ -160,7 +160,7 @@ Prioridade: Alta
 Status: Aberto
 ```
 
-## 📚 Conhecimentos aplicados
+##  Conhecimentos aplicados
 
 Durante o desenvolvimento deste projeto, foram trabalhados conceitos importantes para a área de desenvolvimento de software e suporte técnico:
 
@@ -171,6 +171,6 @@ Durante o desenvolvimento deste projeto, foram trabalhados conceitos importantes
 - Organização e manutenção de código.
 - Versionamento utilizando Git e GitHub.
 
-## 🚀 Próximos passos
+##  Próximos passos
 
 O objetivo é evoluir gradualmente a aplicação
